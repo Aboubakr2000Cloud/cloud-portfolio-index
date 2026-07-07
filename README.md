@@ -1,16 +1,11 @@
-# Cloud Engineering 24-Week Roadmap
+# Cloud Engineering Portfolio
 
 ## 📚 Overview
 My structured journey to becoming a Cloud Engineer, following a comprehensive 24-week roadmap covering Linux, Python, AWS, Terraform, Docker, and CI/CD.
 
-## ✅ Progress
-- **Weeks 1-9:** Complete
-- **Weeks 10-12:** complete
-- **Weeks 13-24:** in progress
-
 ## 🚀 Featured Projects
 
-### [Weather API Fetcher](https://github.com/Aboubakr2000Cloud/weather-api-fetcher) - Week 7
+### [Weather API Fetcher](https://github.com/Aboubakr2000Cloud/weather-api-fetcher)
 Python automation tool with intelligent retry logic, API authentication, and production-ready error handling.
 
 **Tech Stack:** Python, requests, logging, argparse, environment variables
