@@ -9,37 +9,41 @@ A collection of production-style cloud infrastructure and automation projects �
 ## Featured Projects
 
 ### [ECS Weather Platform — CI/CD & Monitoring](https://github.com/Aboubakr2000Cloud/ecs-weather-platform-with-monitoring)
-Containerized weather application deployed on AWS ECS (Fargate), with a full CI/CD pipeline and integrated monitoring/alerting. 
+Containerized weather application deployed on AWS ECS (Fargate), with a full CI/CD pipeline and integrated monitoring/alerting.   
+
 **Tech Stack:** Docker, AWS ECS, ECR, GitHub Actions, CloudWatch
 
 ---
 
 ### [Terraform Three-Tier AWS Infrastructure](https://github.com/Aboubakr2000Cloud/terraform-three-tier)
-Modularized, fully reproducible three-tier AWS architecture (network, compute, data layers) deployed via Terraform, with remote state management. 
+Modularized, fully reproducible three-tier AWS architecture (network, compute, data layers) deployed via Terraform, with remote state management.    
+
 **Tech Stack:** Terraform, AWS VPC/EC2/RDS, S3 backend, DynamoDB state locking
 
 ---
 
 ### [Backup Automation System](https://github.com/Aboubakr2000Cloud/backup-automation)
-Production-grade backup tool with compression, SHA-256 checksum validation, intelligent rotation, and S3 upload integration. 
+Production-grade backup tool with compression, SHA-256 checksum validation, intelligent rotation, and S3 upload integration.  
 **Tech Stack:** Python, subprocess, tar/gzip, checksums, CLI development
 
 ---
 
 ### [ALB / ASG Deployer](https://github.com/Aboubakr2000Cloud/ALB-ASG-déployer)
-Highly available, auto-scaling EC2 environment behind an Application Load Balancer, scaling automatically based on CPU load. 
+Highly available, auto-scaling EC2 environment behind an Application Load Balancer, scaling automatically based on CPU load.   
 **Tech Stack:** AWS ALB, Auto Scaling Groups, EC2, CloudWatch
 
 ---
 
 ### [EC2-RDS Application](https://github.com/Aboubakr2000Cloud/EC2-RDS-App)
-Application deployment with EC2 compute layer connected to a managed RDS database backend, with security group isolation between tiers. 
+Application deployment with EC2 compute layer connected to a managed RDS database backend, with security group isolation between tiers.   
+
 **Tech Stack:** AWS EC2, RDS, security groups, networking
 
 ---
 
 ### [Weather API Fetcher](https://github.com/Aboubakr2000Cloud/weather-api-fetcher)
-Python automation tool with intelligent retry logic, API authentication, and production-ready error handling. 
+Python automation tool with intelligent retry logic, API authentication, and production-ready error handling.   
+
 **Tech Stack:** Python, requests, logging, argparse, environment variables
 
 ---
