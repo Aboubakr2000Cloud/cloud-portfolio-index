@@ -63,10 +63,10 @@ Python automation tool with intelligent retry logic, API authentication, and pro
 
 ## Skills
 
-**Linux & Systems**  
+### Linux & Systems  
 - File operations & permissions, process management, Bash scripting, cron automation, core networking (IPs, DNS, ports, TCP/UDP)
 
-**Python Development**  
+### Python Development  
 - Core language & data structures, file I/O, API integration & JSON handling, error handling/logging/retry patterns, CLI tooling with argparse
 
 **AWS**  
