@@ -63,23 +63,23 @@ Python automation tool with intelligent retry logic, API authentication, and pro
 
 ## Skills
 
-**Linux & Systems**
-File operations & permissions, process management, Bash scripting, cron automation, core networking (IPs, DNS, ports, TCP/UDP)
+**Linux & Systems**  
+- File operations & permissions, process management, Bash scripting, cron automation, core networking (IPs, DNS, ports, TCP/UDP)
 
-**Python Development**
-Core language & data structures, file I/O, API integration & JSON handling, error handling/logging/retry patterns, CLI tooling with argparse
+**Python Development**  
+- Core language & data structures, file I/O, API integration & JSON handling, error handling/logging/retry patterns, CLI tooling with argparse
 
-**AWS**
-IAM, S3, EC2, VPC, RDS, ALB/ASG, ECS, Lambda (in progress), CloudWatch
+**AWS**  
+- IAM, S3, EC2, VPC, RDS, ALB/ASG, ECS, Lambda (in progress), CloudWatch
 
-**Infrastructure as Code**
-Terraform (modules, remote state, workspaces)
+**Infrastructure as Code**  
+- Terraform (modules, remote state, workspaces)
 
-**Containers & CI/CD**
-Docker, Docker Compose, AWS ECS/ECR, GitHub Actions, CI/CD pipeline design
+**Containers & CI/CD**  
+- Docker, Docker Compose, AWS ECS/ECR, GitHub Actions, CI/CD pipeline design
 
-**In Progress**
-Advanced security & identity (KMS, Secrets Manager), serverless architectures (Lambda, API Gateway), and a capstone project integrating full-stack cloud architecture with monitoring and IaC.
+**In Progress**  
+- Advanced security & identity (KMS, Secrets Manager), serverless architectures (Lambda, API Gateway), and a capstone project integrating full-stack cloud architecture with monitoring and IaC.
 
 ---
 
