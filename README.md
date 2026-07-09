@@ -49,7 +49,7 @@ Python automation tool with intelligent retry logic, API authentication, and pro
 - **[Cloud Nginx Deployer](https://github.com/Aboubakr2000Cloud/cloud-nginx-deployer)** — End-to-end EC2 deployment with user-data automation, EBS, and AMI snapshotting
 - **[Terraform AWS Infra](https://github.com/Aboubakr2000Cloud/terraform-aws-infra)** — Additional Terraform-managed AWS infrastructure
 - **[Containerized Weather App](https://github.com/Aboubakr2000Cloud/containerized-weather-app)** — Docker-containerized version of the weather platform
-- **[Foundations: Linux, Bash & Python Automation](https://github.com/Aboubakr2000Cloud/cloud-engineering-foundations)** — Early-stage work covering Linux administration, Bash scripting, and Python automation fundamentals
+- **[Foundational projects: Linux, Bash & Python Automation](https://github.com/Aboubakr2000Cloud/cloud-engineering-foundations)** — Early-stage work covering Linux administration, Bash scripting, and Python automation fundamentals
 
 ---
 
