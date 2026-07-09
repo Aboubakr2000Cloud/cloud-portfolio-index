@@ -23,13 +23,17 @@ Modularized, fully reproducible three-tier AWS architecture (network, compute, d
 ---
 
 ### [Backup Automation System](https://github.com/Aboubakr2000Cloud/backup-automation)
-Production-grade backup tool with compression, SHA-256 checksum validation, intelligent rotation, and S3 upload integration.       
+Production-grade backup tool with compression, SHA-256 checksum validation, intelligent rotation, and S3 upload integration.
+
+
 **Tech Stack:** Python, subprocess, tar/gzip, checksums, CLI development
 
 ---
 
 ### [ALB / ASG Deployer](https://github.com/Aboubakr2000Cloud/ALB-ASG-déployer)
-Highly available, auto-scaling EC2 environment behind an Application Load Balancer, scaling automatically based on CPU load.        
+Highly available, auto-scaling EC2 environment behind an Application Load Balancer, scaling automatically based on CPU load.
+
+
 **Tech Stack:** AWS ALB, Auto Scaling Groups, EC2, CloudWatch
 
 ---
