@@ -23,7 +23,7 @@ Modularized, fully reproducible three-tier AWS architecture (network, compute, d
 ---
 
 ### [EC2-RDS Application](https://github.com/Aboubakr2000Cloud/EC2-RDS-App)
-Application deployment with EC2 compute layer connected to a managed RDS database backend, with security group isolation between tiers.   
+Application deployment extending a load-balanced, auto-scaling EC2 environment with a managed RDS database backend, using security group isolation between the application and data tiers.   
 
 **Tech Stack:** AWS EC2, RDS, security groups, networking
 
