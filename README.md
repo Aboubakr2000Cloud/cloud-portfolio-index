@@ -22,11 +22,10 @@ Modularized, fully reproducible three-tier AWS architecture (network, compute, d
 
 ---
 
-### [Backup Automation System](https://github.com/Aboubakr2000Cloud/backup-automation)
-Production-grade backup tool with compression, SHA-256 checksum validation, intelligent rotation, and S3 upload integration.
+### [EC2-RDS Application](https://github.com/Aboubakr2000Cloud/EC2-RDS-App)
+Application deployment with EC2 compute layer connected to a managed RDS database backend, with security group isolation between tiers.   
 
-
-**Tech Stack:** Python, subprocess, tar/gzip, checksums, CLI development
+**Tech Stack:** AWS EC2, RDS, security groups, networking
 
 ---
 
@@ -38,10 +37,11 @@ Highly available, auto-scaling EC2 environment behind an Application Load Balanc
 
 ---
 
-### [EC2-RDS Application](https://github.com/Aboubakr2000Cloud/EC2-RDS-App)
-Application deployment with EC2 compute layer connected to a managed RDS database backend, with security group isolation between tiers.   
+### [Backup Automation System](https://github.com/Aboubakr2000Cloud/backup-automation)
+Production-grade backup tool with compression, SHA-256 checksum validation, intelligent rotation, and S3 upload integration.
 
-**Tech Stack:** AWS EC2, RDS, security groups, networking
+
+**Tech Stack:** Python, subprocess, tar/gzip, checksums, CLI development
 
 ---
 
