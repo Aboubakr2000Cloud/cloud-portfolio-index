@@ -8,10 +8,12 @@ A collection of production-style cloud infrastructure and automation projects �
 
 ## Featured Projects
 
-### [ECS Weather Platform — CI/CD & Monitoring](https://github.com/Aboubakr2000Cloud/ecs-weather-platform-with-monitoring)
-Containerized weather application deployed on AWS ECS (Fargate), with a full CI/CD pipeline and integrated monitoring/alerting.   
+### [ECS Weather Platform – Security Hardening](https://github.com/Aboubakr2000Cloud/ecs-weather-platform-secured)
+The security-hardened evolution of a full production-style AWS platform — containerized on ECS with complete CI/CD and CloudWatch monitoring, further secured with customer-managed KMS keys, IAM least-privilege policies, Secrets Manager, Parameter Store, CloudTrail auditing, and automated secret scanning (TruffleHog). Every hardening change was verified to preserve full application availability and database connectivity.
 
-**Tech Stack:** Docker, AWS ECS, ECR, GitHub Actions, CloudWatch
+**Tech Stack:** Terraform, AWS KMS, IAM, Secrets Manager, Systems Manager, CloudTrail, ECS, Docker, GitHub Actions, CloudWatch
+
+*Built in stages — see the full progression: [initial platform](https://github.com/Aboubakr2000Cloud/ecs-weather-platform) → [CI/CD added](https://github.com/Aboubakr2000Cloud/ecs-weather-platform-cicd) → [monitoring added](https://github.com/Aboubakr2000Cloud/ecs-weather-platform-with-monitoring) → security hardening (this repo).*
 
 ---
 
@@ -53,6 +55,9 @@ Python automation tool with intelligent retry logic, API authentication, and pro
 ---
 
 ## Additional Projects
+- **[ECS Weather Platform](https://github.com/Aboubakr2000Cloud/ecs-weather-platform)** — Initial containerized deployment stage of the weather platform on AWS ECS
+- **[ECS Weather Platform — CI/CD](https://github.com/Aboubakr2000Cloud/ecs-weather-platform-cicd)** — Added a full CI/CD pipeline via GitHub Actions to the ECS deployment
+- **[ECS Weather Platform — Monitoring](https://github.com/Aboubakr2000Cloud/ecs-weather-platform-with-monitoring)** — Added CloudWatch monitoring and alerting to the CI/CD-enabled platform
 - **[VPC Infrastructure Deployer](https://github.com/Aboubakr2000Cloud/VPC-Infra-Deployer)** — Production-structured AWS VPC built from scratch via Bash and the AWS CLI
 - **[Cloud Nginx Deployer](https://github.com/Aboubakr2000Cloud/cloud-nginx-deployer)** — End-to-end EC2 deployment with user-data automation, EBS, and AMI snapshotting
 - **[Terraform AWS Infra](https://github.com/Aboubakr2000Cloud/terraform-aws-infra)** — Additional Terraform-managed AWS infrastructure
