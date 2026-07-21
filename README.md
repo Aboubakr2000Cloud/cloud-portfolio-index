@@ -70,7 +70,7 @@ Python automation tool with intelligent retry logic, API authentication, and pro
 - Core language & data structures, file I/O, API integration & JSON handling, error handling/logging/retry patterns, CLI tooling with argparse
 
 ### AWS  
-- IAM, S3, EC2, VPC, RDS, ALB/ASG, ECS, Lambda (in progress), CloudWatch
+- IAM, S3, EC2, VPC, RDS, ALB/ASG, ECS, Lambda (in progress), CloudWatch, IAM (least privilege), KMS, AWS Secrets Manager, Parameter Store
 
 ### Infrastructure as Code  
 - Terraform (modules, remote state, workspaces)
@@ -79,7 +79,7 @@ Python automation tool with intelligent retry logic, API authentication, and pro
 - Docker, Docker Compose, AWS ECS/ECR, GitHub Actions, CI/CD pipeline design
 
 ### In Progress  
-- Advanced security & identity (KMS, Secrets Manager), serverless architectures (Lambda, API Gateway), and a capstone project integrating full-stack cloud architecture with monitoring and IaC.
+- Serverless architectures (Lambda, API Gateway), and a capstone project integrating full-stack cloud architecture with monitoring and IaC.
 
 ---
 
